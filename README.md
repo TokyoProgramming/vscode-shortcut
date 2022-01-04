@@ -13,3 +13,4 @@
 | 4.  | move file   | ctrl + shift + p | command + P | File Utils        |
 | 5.  | delete file | ctrl + shift + p | command + P | File Utils        |
 | 5.  | delete file | ctrl + shift + p | command + P | File Utils        |
+| 5.  | delete file | ctrl + shift + p | command + P | File Utils        |
