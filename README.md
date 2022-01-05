@@ -7,7 +7,7 @@
 | 3.  | settings 開く                | ctrl + ,                       | cmd + ,               |                   |
 | 4.  | 開いているタブ間の移動       | ctrl + tab                     | cmd + tab             |                   |
 | 5.  | ファイルを分割する           | ctrl + \                       | cmd + \               |                   |
-| 6.  | ファイルと閉じる             | ctrl + W                       | cmd + W               |                   |
+| 6.  | ファイルを閉じる             | ctrl + W                       | cmd + W               |                   |
 | 7.  | ファイル内検索               | ctrl + F                       | cmd + F               |                   |
 | 8.  | グローバル検索               | ctrl +shift + F                | cmd + shift + F       |                   |
 | 9.  | コマンドパレットを開く       | ctrl + shift + P               | cmd +shift +P         |                   |
