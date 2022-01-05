@@ -1,4 +1,4 @@
-# Top 20 vscode shortcuts
+# Top 18 vscode shortcuts
 
 | No. | function                        | win              | mac             | extension         |
 | --- | ------------------------------- | ---------------- | --------------- | ----------------- |
@@ -19,4 +19,4 @@
 | 15. | create file , cmd + type create | ctrl + N         | cmd + N         | File Utils        |
 | 16. | rename file, cmd + type rename  | ctrl + shift + p | cmd + P         | File Utils        |
 | 17. | move file, cmd + type move      | ctrl + shift + p | cmd + P         | File Utils        |
-| 6.  | delete file, cmd + type delete  | ctrl + shift + p | cmd + P         | File Utils        |
+| 18. | delete file, cmd + type delete  | ctrl + shift + p | cmd + P         | File Utils        |
