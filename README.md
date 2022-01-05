@@ -1,22 +1,21 @@
-# Top 18 vscode shortcuts
+# Top 17 vscode shortcuts
 
-| No. | function                        | win              | mac             | extension         |
-| --- | ------------------------------- | ---------------- | --------------- | ----------------- |
-| 1.  | toggle side bar                 | ctrl + B         | cmd + B         |                   |
-| 2.  | toggle terminal                 | ctrl + `         | cmd + `         |                   |
-| 3.  | Open settings                   | ctrl + ,         | cmd + ,         |                   |
-| 4.  | tab through open files          | ctrl + tab       | cmd + tab       |                   |
-| 5.  | Move file to split window       | ctrl + \         | cmd + \         |                   |
-| 6.  | close file                      | ctrl + W         | cmd + W         |                   |
-| 7.  | search file                     | ctrl + F         | cmd + F         |                   |
-| 8.  | Global Search                   | ctrl +shift + F  | cmd + shift + F |                   |
-| 9.  | open command pallet             | ctrl + shift + P | cmd +shift +P   |                   |
-| 10. | toggle comments                 | ctrl + /         | cmd + /         |                   |
-| 11. | open command pallet             | ctrl + shift + P | cmd +shift +P   |                   |
-| 12. | multiple cursor                 | ctrl + D         | cmd +D          |                   |
-| 13. | select all selected word        | ctrl + shift + L | cmd +shift +L   |                   |
-| 14. | open file                       | ctrl + P         | cmd + P         | advanced new file |
-| 15. | create file , cmd + type create | ctrl + N         | cmd + N         | File Utils        |
-| 16. | rename file, cmd + type rename  | ctrl + shift + p | cmd + P         | File Utils        |
-| 17. | move file, cmd + type move      | ctrl + shift + p | cmd + P         | File Utils        |
-| 18. | delete file, cmd + type delete  | ctrl + shift + p | cmd + P         | File Utils        |
+| No. | function                     | win                            | mac                   | extension         |
+| --- | ---------------------------- | ------------------------------ | --------------------- | ----------------- |
+| 1.  | サイドバー　開閉             | ctrl + B                       | cmd + B               |                   |
+| 2.  | ターミナル　開閉             | ctrl + `                       | cmd + `               |                   |
+| 3.  | settings 開く                | ctrl + ,                       | cmd + ,               |                   |
+| 4.  | 開いているタブ間の移動       | ctrl + tab                     | cmd + tab             |                   |
+| 5.  | ファイルを分割する           | ctrl + \                       | cmd + \               |                   |
+| 6.  | ファイルと閉じる             | ctrl + W                       | cmd + W               |                   |
+| 7.  | ファイル内検索               | ctrl + F                       | cmd + F               |                   |
+| 8.  | グローバル検索               | ctrl +shift + F                | cmd + shift + F       |                   |
+| 9.  | コマンドパレットを開く       | ctrl + shift + P               | cmd +shift +P         |                   |
+| 10. | コメントアウトする           | ctrl + /                       | cmd + /               |                   |
+| 11. | 選択した文字を複数選択する   | ctrl + D                       | cmd +D                |                   |
+| 12. | 選択した文字をすべて選択する | ctrl + shift + L               | cmd +shift +L         |                   |
+| 13. | ファイルを開く               | ctrl + P                       | cmd + P               | advanced new file |
+| 14. | ファイルを作成する           | ctrl + N, +type >create        | cmd + N, type >create | File Utils        |
+| 15. | ファイル名を変更する         | ctrl + shift + p, type >rename | cmd + P, type >rename | File Utils        |
+| 16. | ファイルを移動する           | ctrl + shift + p, type >move   | cmd + P, type >move   | File Utils        |
+| 17. | ファイルを削除する           | ctrl + shift + p, type >delete | cmd + P, type >delete | File Utils        |
